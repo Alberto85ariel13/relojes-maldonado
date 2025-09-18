@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Relojes Maldonado</title>
+  <desc id="desc">Icono minimalista de un reloj</desc>
+  <defs>
+    <radialGradient id="bg" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#6d8bff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#050608" />
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#050608" />
+  <circle cx="32" cy="32" r="22" fill="url(#bg)" stroke="#35d0ba" stroke-width="2" />
+  <circle cx="32" cy="32" r="4" fill="#35d0ba" />
+  <rect x="21" y="4" width="22" height="10" rx="4" fill="#0c0f16" stroke="#6d8bff" stroke-width="1.5" />
+  <rect x="21" y="50" width="22" height="10" rx="4" fill="#0c0f16" stroke="#6d8bff" stroke-width="1.5" />
+  <line x1="32" y1="32" x2="32" y2="16" stroke="#f5f7ff" stroke-width="3" stroke-linecap="round" />
+  <line x1="32" y1="32" x2="44" y2="36" stroke="#35d0ba" stroke-width="2.5" stroke-linecap="round" />
+</svg>
