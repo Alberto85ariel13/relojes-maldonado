@@ -1,10 +1,10 @@
 {
   "name": "Relojes Maldonado",
   "short_name": "Maldonado",
-  "description": "Venta, reparación y mantenimiento premium de relojes en Madrid.",
+  "description": "Venta, reparación y mantenimiento premium de relojes en Maldonado, Uruguay.",
   "start_url": "/",
   "display": "standalone",
-  "lang": "es-ES",
+  "lang": "es-UY",
   "background_color": "#05070d",
   "theme_color": "#05070d",
   "orientation": "portrait-primary",

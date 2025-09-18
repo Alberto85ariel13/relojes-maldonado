@@ -119,7 +119,7 @@ docReady(() => {
         return;
       }
 
-      const whatsappNumber = "34600123456";
+      const whatsappNumber = "59894123456";
       const messagePieces = [
         `Hola Relojes Maldonado, soy ${nombre}.`,
         servicio ? `Estoy interesado en: ${servicio}.` : "",
