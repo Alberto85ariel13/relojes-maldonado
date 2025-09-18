@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.relojesmaldonado.com/</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.relojesmaldonado.com/#servicios</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.relojesmaldonado.com/#metodo</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.relojesmaldonado.com/#testimonios</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.relojesmaldonado.com/#faq</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://www.relojesmaldonado.com/#contacto</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+</urlset>
